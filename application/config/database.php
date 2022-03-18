@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '34.101.161.118',
+	'hostname' => 'hostip',
 	'port' => '1433',
-	'username' => 'WibuSaga',
-	'password' => '@Wi@bu@sa@ga@20@22@',
+	'username' => 'username',
+	'password' => 'passworddb',
 	'database' => 'LosaGame',
 	'dbdriver' => 'sqlsrv',
 	'dbprefix' => '',
